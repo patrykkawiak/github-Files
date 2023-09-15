@@ -30,15 +30,15 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrykkawiak&hide_progress=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrykkawiak&hide_progress=true&theme=dark" alt="" />
 
 ## Profile Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrykkawiak&hide=contribs,prs)
+  <img src="https://github-readme-stats.vercel.app/api?username=patrykkawiak&hide=contribs,prs&theme=dark" alt="" />
 
 ## Top Respositorys
 
-<p align="left">
+<p align="center">
      <a href="https://github.com/patrykkawiak/Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=patrykkawiak&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/patrykkawiak/ELBO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=patrykkawiak&repo=ELBO&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/patrykkawiak/RecruitmentApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=patrykkawiak&repo=RecruitmentApp&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
