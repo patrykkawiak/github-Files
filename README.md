@@ -4,4 +4,4 @@
 </p>
 
 <h3 align="center">Who am I?</h3>
-<h5 align="center">I'm a Frontend developer and website designer. I specialize in creating responsive and modern websites/apps. I'm good at SEO and UI/UX.</h5>
+<h5 align="center">I'm a Frontend developer and website designer.</h5>
