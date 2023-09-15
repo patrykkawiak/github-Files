@@ -22,8 +22,22 @@
 
   #### Also Check My Portfolio
   
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-patrykkawiak.vercel.app/) ś
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-patrykkawiak.vercel.app/)
 
 ## Techstack
 
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,js,react,nextjs,redux,sass,figma,firebase,git,github,gulp,mongodb"></p>
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrykkawiak&hide_progress=true)
+
+## Profile Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrykkawiak&hide=contribs,prs)
+
+## Top Respositorys
+
+
+
+
