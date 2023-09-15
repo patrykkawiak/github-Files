@@ -22,8 +22,8 @@
 ⚡️ Learining Next.js, Typescript and more...
 </p>
 <p align="center">
- #### Also Check My Portfolio
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-patrykkawiak.vercel.app/) 
+  <h4>Also Check My Portfolio</h4>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-patrykkawiak.vercel.app/) ś
 </p>
 
 ## Techstack
