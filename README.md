@@ -4,9 +4,12 @@
 </p>
 
 <h3 align="center">Welcome to my Github Profile</h3>
+<h5 align="center">Check my all projects...</h5>
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=patrykkawiak&color=blue" alt="" />
   <img src="https://img.shields.io/github/followers/patrykkawiak?color=orange" alt="" />
   <img src="https://img.shields.io/badge/Top_Language-Javascript-yellow" alt="" />
+  <img src="https://img.shields.io/badge/JS_Framework-React.js-skyblue" alt="" />
+  <img src="https://img.shields.io/badge/Commercial_Experience-Yes-green" alt="" />
   
  </p>
