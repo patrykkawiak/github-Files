@@ -29,12 +29,15 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,js,react,nextjs,redux,sass,figma,firebase,git,github,gulp,mongodb"></p>
 
 ## Most Used Languages
-
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrykkawiak&hide_progress=true&theme=dark" alt="" />
+  </p>
 
 ## Profile Stats
 
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=patrykkawiak&hide=contribs,prs&theme=dark" alt="" />
+  </p>
 
 ## Top Respositorys
 
