@@ -11,5 +11,13 @@
   <img src="https://img.shields.io/badge/Top_Language-Javascript-yellow" alt="" />
   <img src="https://img.shields.io/badge/JS_Framework-React.js-skyblue" alt="" />
   <img src="https://img.shields.io/badge/Commercial_Experience-Yes-green" alt="" />
-  
  </p>
+
+ ## About Me 
+
+🌍 Building Websites and Web Apps
+
+⚡️ Learining Next.js, Typescript and more...
+
+ #### Also Check My Portfolio
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-patrykkawiak.vercel.app/)
